@@ -33,6 +33,9 @@ Codex破甲｜GPT API中转｜CC Switch接入教程｜NB破甲
     交流使用体验、反馈接入问题以及获取后续更新通知。
 ---
 
+<img width="1272" height="836" alt="269cf1a29d50fcad644bb5eb8fbdc30e" src="https://github.com/user-attachments/assets/9f399795-5e3e-406b-b254-c01b4eb04044" />
+<img width="840" height="886" alt="d46bdd9c03cf77e3bc8bb12413dc3ce8" src="https://github.com/user-attachments/assets/134322d1-fe4c-4144-9793-92ff162f2434" />
+
 ## 📺 视频教程👉 https://nbpojia.lol/guides/#video
 ## 🌐 NB破甲官网👉 https://nbpojia.lol
 ## 💬 Telegram 交流群👉 https://t.me/HaoNB_6666
